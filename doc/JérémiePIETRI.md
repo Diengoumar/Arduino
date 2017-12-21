@@ -22,3 +22,7 @@ https://www.youtube.com/watch?v=rHaAKwuk_4s,
 https://www.youtube.com/watch?v=lSnqq6OPn8A(avec un volant et une caméra)
 
 code joystick:https://www.youtube.com/watch?v=S4l4zddOmp4
+
+*Séance de rentrée 2018
+-regarder et obtenir des codes de voiture télécommandes.
+-regarder les matériaux nécessaires pour réaliser le projet.
