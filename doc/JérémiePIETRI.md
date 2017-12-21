@@ -5,6 +5,16 @@
 Je me suis mis en groupe avec Oumar DIENG.
 Nous nous sommes mis d'accord sur un sujet autour d'une voiture télécommandé.
 Nous aimerions la commander à l'aide d'un manette de jeux videos.
+Nous avons regardé des exemples de voiture télécommandé.
+
+![image](https://i.ytimg.com/vi/rHaAKwuk_4s/maxresdefault.jpg)
+
+
+
+
+
+
+
 
 Référence:
 https://www.youtube.com/watch?v=rHaAKwuk_4s,
