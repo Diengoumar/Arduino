@@ -12,5 +12,5 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
  
  Ce projet a pour but de commander une voiture à distance.
  
- Nous allons essayer de créer notre propre manette et notre propre voiture à partir d'exemples de voitures télécommnadés.
+ Nous allons essayer de créer une manette connecté en arduino avec notre propre voiture à partir d'exemples de voitures télécommnadés.
 
