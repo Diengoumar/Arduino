@@ -4,8 +4,8 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 
 # Arduino PeiP2 Voiture Télécommandé
 
-# Exemple de voiture télécommandé avec un camera et un volant
-![voiture](http://tapahont.info/wp-content/uploads/2012/10/1355924620.7608.jpeg)
+# Exemple de voiture télécommandé 
+![Polytech](http://www.labfab.fr/wp-content/uploads/2014/12/20141203_141820.jpg)
 
  # Descrption du projet
  
