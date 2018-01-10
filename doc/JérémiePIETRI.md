@@ -28,11 +28,11 @@ code joystick:https://www.youtube.com/watch?v=S4l4zddOmp4
 
 * Séance du 10 janvier 2018
 
-Nous avons d'abord rechercher sur internet comment fonctionne les voitures télécommandées. 
+Nous avons d'abord rechercher sur internet comment fonctionnent les voitures télécommandées. 
 
 Ensuite, nous avons regardé quelle manette utiliser pour commander la voiture.
 
-Après cela, Nous avons chercher des modèles de voitures qu'on pourrait prendre comme base pour notre voiture.
+Après cela, nous avons chercher des modèles de voitures qu'on pourrait prendre comme base pour notre voiture.
 
 Nous avons pensé à partir d'une voiture télécommandés pré-faites( je vais regardé si il me reste des voitures télécommandés ce week-end).
 
