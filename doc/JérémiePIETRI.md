@@ -32,6 +32,13 @@ code joystick:https://www.youtube.com/watch?v=S4l4zddOmp4
 
 -regarder les matériaux nécessaires pour réaliser le projet.
 * Séance du 10 janvier 2018
- recherche de programmes pour voir comment faire fonctionner un joyctick.
- recherche de matériel
+
+*Séance du 10 janvier 2018
+Obtention de matériel(servomoteur,roue,moteur).
+
+Recherche du plan pour la construction de la voiture(possibililité de partir d'une voiture télécommandé).
+
+obtention de code pour utiliser le servomoteur.
+
+
  https://www.youtube.com/watch?v=uCCrLPmaa_w
