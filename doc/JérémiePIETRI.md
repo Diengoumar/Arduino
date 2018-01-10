@@ -34,3 +34,4 @@ code joystick:https://www.youtube.com/watch?v=S4l4zddOmp4
 * Séance du 10 janvier 2018
  recherche de programmes pour voir comment faire fonctionner un joyctick.
  recherche de matériel
+ https://www.youtube.com/watch?v=uCCrLPmaa_w
