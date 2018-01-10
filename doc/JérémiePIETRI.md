@@ -26,19 +26,18 @@ https://www.youtube.com/watch?v=lSnqq6OPn8A(avec un volant et une caméra)
 
 code joystick:https://www.youtube.com/watch?v=S4l4zddOmp4
 
-* Séance de rentrée 2018
-
--regarder et obtenir des codes de voiture télécommandes.
-
--regarder les matériaux nécessaires pour réaliser le projet.
 * Séance du 10 janvier 2018
 
-*Séance du 10 janvier 2018
-Obtention de matériel(servomoteur,roue,moteur).
+Nous avons d'abord rechercher sur internet comment fonctionne les voitures télécommandées. 
 
-Recherche du plan pour la construction de la voiture(possibililité de partir d'une voiture télécommandé).
+Ensuite, nous avons regardé quelle manette utiliser pour commander la voiture.
 
-obtention de code pour utiliser le servomoteur.
+Après cela, Nous avons chercher des modèles de voitures qu'on pourrait prendre comme base pour notre voiture.
+
+Nous avons pensé à partir d'une voiture télécommandés pré-faites( je vais regardé si il me reste des voitures télécommandés ce week-end).
+
+Nous avons obtenu du matériel pour commencer notre projet ( nous avons un programme pour essayer de faire marcher le servomoteur qui nous servira à faire tourner les roues).
+Nous avons aussi les  4 roues ainsi qu'un 
 
 
  https://www.youtube.com/watch?v=uCCrLPmaa_w
