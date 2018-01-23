@@ -41,3 +41,11 @@ Nous avons aussi les  4 roues ainsi qu'un
 
 
  https://www.youtube.com/watch?v=uCCrLPmaa_w
+ * Séance du 17 janvier
+ 
+ J'ai amené mon ancienne voiture télécommandé avec une télécommande. Nous avons obtenu un HC-06 pour la communication bluetooth.
+ J'ai entré le programme pour permettre de communiquer en bluetooth tandis que mon binôme faisait les branchements nécessaires.
+ Nous avons commencé à essayer de faire d'abord fonctionné qu'un seul roue(un moteur) à distance. Nous avons discuté de différentes options que nous pourrions ajouter à notre voiture après.
+ ![voiture](https://image.noelshack.com/fichiers/2018/04/2/1516742562-p-20180119-092325-vhdr-on.jpg)
+ ![HC-06](https://image.noelshack.com/fichiers/2018/04/2/1516742563-p-20180119-105519-vhdr-on.jpg)
+ 
