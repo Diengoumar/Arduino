@@ -51,5 +51,15 @@ Nous avons aussi les  4 roues ainsi qu'un
 
 
  ![HC-06](https://zupimages.net/up/18/04/iijm.jpg)
-
+ 
+ * Séance du 6 février 2018
+ 
+ Nous avons démanteler la voiture que l'on va utiliser pour notre projet. 
+ 
+ ![car](https://zupimages.net/up/18/06/lbie.jpg)
+ 
+ Nous avons donc enlevé le circuit intégré et regardé comment nous allons mettre notre carte arduino. Nous avons ensuite obtenu du matériel( Carte Arduino nano,accéléromètre pour calculer la vitesse de la voiture)
+ Nous allons regarder comment utiliser une arduino nano
+ 
+ 
  
