@@ -16,6 +16,12 @@ Recherche du plan pour la construction de la voiture(possibililité de partir d'
 obtention de code pour utiliser le servomoteur.
 
 
+* Séance du 24 janvier 2018
 
+on a recupérer un HC 06 et deux arduinos NANO.
+
+
+
+* Séance du 19 février 2018
 
 
