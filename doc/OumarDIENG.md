@@ -5,7 +5,7 @@
 J'ai formé mon groupe avec Jeremie Pietri (super binôme). 
 On s'est mis d'accord pour faire un projet autour d'une voiture Télécommandé.
 Nous aimerions à l'aide d'une manette de jeu (volant).
-![image](http://tse3.mm.bing.net/th?id=OIP.xLBaxgSx-VP45DFrJpDBLgEsDH)
+![image](https://img.fr.clasf.com/2017/10/06/kit-de-voiture-intelligente-pour-arduino-20171006024334.jpg)
 
 
 *Séance du 10 janvier 2018
