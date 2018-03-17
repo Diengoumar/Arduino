@@ -5,7 +5,7 @@
 J'ai formé mon groupe avec Jeremie Pietri (super binôme). 
 On s'est mis d'accord pour faire un projet autour d'une voiture Télécommandé.
 Nous aimerions à l'aide d'une manette de jeu (volant).
-![image](http://blog.artandgj.com/wp-content/uploads/2011/09/Voiture_Desire-1024x682.jpg)
+![image](http://tse3.mm.bing.net/th?id=OIP.xLBaxgSx-VP45DFrJpDBLgEsDH)
 
 
 *Séance du 10 janvier 2018
