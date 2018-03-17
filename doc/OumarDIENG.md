@@ -24,6 +24,7 @@ on a recupérer un HC 06 et deux arduinos NANO.
 
 
 * 15 mas 2018
+![image](http://www.comconvenu.fr/image/cache/data/category_17/moteur-pas-a-pas-kuman-l298n-dual-h-pour-arduino-robot-de-voiture-intelligent-k48--2666-500x500_0.jpg)
 on est arrivé à faire tourner le moteur en utilisant l'entrée vin de l'arduino et on commence à  le faire  
 marché sous bluetooth.
 
