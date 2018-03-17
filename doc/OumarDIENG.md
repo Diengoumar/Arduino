@@ -22,6 +22,8 @@ on a recupérer un HC 06 et deux arduinos NANO.
 
 
 
-* Séance du 19 février 2018
 
+* 15 mas 2018
+on est arrivé à faire tourner le moteur en utilisant l'entrée vin de l'arduino et on commence à  le faire  
+marché sous bluetooth.
 
