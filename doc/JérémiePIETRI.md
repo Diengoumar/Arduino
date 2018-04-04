@@ -61,5 +61,10 @@ Nous avons aussi les  4 roues ainsi qu'un
  Nous avons donc enlevé le circuit intégré et regardé comment nous allons mettre notre carte arduino. Nous avons ensuite obtenu du matériel( Carte Arduino nano,accéléromètre pour calculer la vitesse de la voiture)
  Nous allons regarder comment utiliser une arduino nano
  
+ * Séance du 19 février 2018
  
+ Nous avons reschématisé le circuit avec le bluetooth et réaliser le schéma du moteur avec le l298n.
  
+ * Séance du 12 mars 2018
+ 
+ Nous avons essayé de faire démarer la voiture avec la commande bluetooth(téléphone) mais des problèmes persistent.
