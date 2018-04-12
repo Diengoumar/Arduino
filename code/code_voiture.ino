@@ -61,8 +61,7 @@ void loop() {
     
    }
    else if(recvChar=='D'){
-     digitalWrite(IN3, LOW);   
-  LO
+     digitalWrite(IN3, LOW);  
     digitalWrite(IN4, HIGH);
     analogWrite(ENB,-50);
     
