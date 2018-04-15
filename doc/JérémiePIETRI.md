@@ -63,8 +63,9 @@ Nous avons aussi les  4 roues ainsi qu'un
  
  * Séance du 19 février 2018
  
- Nous avons reschématisé le circuit avec le bluetooth et réaliser le schéma du moteur avec le l298n.
+ Nous avons reschématisé le circuit avec le bluetooth et réaliser le schéma du moteur avec le l298n.Dans un second temps, nous avons observé des problèmes au niveau de la voiture télécommandée.
  
  * Séance du 12 mars 2018
  
  Nous avons essayé de faire démarer la voiture avec la commande bluetooth(téléphone) mais des problèmes persistent.
+ Des fils sont défaillant et ainsi la voiture ne marche pas comme elle devrait. Au niveau du moteur arrière une partie s'était décollait et nous devions arriver à le remettre en place.
