@@ -31,6 +31,6 @@ marché sous bluetooth.
 * 12 avril 2018
 on a pu retrouver notre erreur sur la liaison bluetooth moteur.
 voici ci-dessous une petite demonstration avec un moteur dc.
-![video](https://youtu.be/74G_VwYQWGM )
+![vidéo](https://youtu.be/74G_VwYQWGM )
 
 
