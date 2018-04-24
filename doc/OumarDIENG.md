@@ -28,3 +28,8 @@ on a recupérer un HC 06 et deux arduinos NANO.
 on est arrivé à faire tourner le moteur en utilisant l'entrée vin de l'arduino et on commence à  le faire  
 marché sous bluetooth.
 
+* 12 avril 2018
+on a pu retrouver notre erreur sur la liaison bluetooth moteur.
+voici ci-dessous une petite demonstration avec un moteur dc.
+
+
