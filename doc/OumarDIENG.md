@@ -36,7 +36,7 @@ https://youtu.be/74G_VwYQWGM
 
 * 29 main 2018
 on a remplacé le moteur dc de derriere par deux nouveaux moteurs.
-![image](https://goo.gl/images/NGmGVb)
+![image](http://jcinfotr.com/index.php?route=product/product&product_id=1517)
 
 
 * 30 mai 2018
