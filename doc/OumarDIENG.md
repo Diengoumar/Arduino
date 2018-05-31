@@ -36,7 +36,7 @@ https://youtu.be/74G_VwYQWGM
 
 * 29 main 2018
 on a remplacé le moteur dc de derriere par deux nouveaux moteurs.
-![image](https://m.fr.aliexpress.com/item/32713853079.html)
+![image](https://goo.gl/images/NGmGVb)
 
 
 * 30 mai 2018
